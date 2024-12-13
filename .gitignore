@@ -2,3 +2,4 @@
 *.idea/
 *.zip
 *.npy
+!dm2/spectral_partial.npy
